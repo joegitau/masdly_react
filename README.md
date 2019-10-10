@@ -1,4 +1,16 @@
+# Masdly (React)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About
+
+The project is built on React.
+
+It is part of Masdly - which is a MERN project - employing MongoDB, Express, React and Node.js - to render a Video Rental Application featuring, User registration/ login, Admin sections among other features.
+
+Simply, this is client-side version that connects with masdly API (Back-end) to deliver a full-stack application.
+
+See: Masdly -> the Back-end version of the App.
 
 ## Available Scripts
 
